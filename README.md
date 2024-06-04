@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ST3A1TH
+- 👀 I’m interested in coding,djing and more!
+- 🌱 I’m currently learning js and discord.js v14
+- 💞️ I’m looking to collaborate on making bots or anything
+- 📫 How to reach me: support@harmonydev.info or harmonyxyz.dev@gmail.com or via discord - stellar.444
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I own a bot aka Fusion.exe - Check it out here - https://harmonydev.info/
