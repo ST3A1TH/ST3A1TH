@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding,djing and more!
 - 🌱 I’m currently learning js and discord.js v14
 - 💞️ I’m looking to collaborate on making bots or anything
-- 📫 How to reach me: support@harmonydev.info or harmonyxyz.dev@gmail.com or via discord - stellar.444
+- 📫 How to reach me: via discord - stellar.444
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I made a bot named MultiTool check it out here - https://multitoolweb.vercel.app/
