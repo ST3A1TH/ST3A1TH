@@ -15,7 +15,7 @@ I’m a **developer, bot creator, and DJ enthusiast** exploring the worlds of co
 Always open to **collaborating on bots, tools, or fun side projects**. Hit me up if you have ideas!  
 
 ### 📫 How to Reach Me
-- Discord: `stellar.444`  
+- Discord: `st3a1th.`  
 - GitHub: DM or issues on my repos  
 
 ### ⚡ Fun Fact
